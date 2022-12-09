@@ -1,0 +1,13 @@
+/home/ndkhoalk97/IdeaProjects/dagger-/src/main/java/org/example/car/Wheels.java
+/home/ndkhoalk97/IdeaProjects/dagger-/src/main/java/org/example/car/Car.java
+/home/ndkhoalk97/IdeaProjects/dagger-/src/main/java/org/example/dagger/WheelsModule.java
+/home/ndkhoalk97/IdeaProjects/dagger-/src/main/java/org/example/dagger/DieselEngineModule.java
+/home/ndkhoalk97/IdeaProjects/dagger-/src/main/java/org/example/Main.java
+/home/ndkhoalk97/IdeaProjects/dagger-/src/main/java/org/example/dagger/PetrolEngineModule.java
+/home/ndkhoalk97/IdeaProjects/dagger-/src/main/java/org/example/CarService.java
+/home/ndkhoalk97/IdeaProjects/dagger-/src/main/java/org/example/car/Tires.java
+/home/ndkhoalk97/IdeaProjects/dagger-/src/main/java/org/example/car/PetrolEngine.java
+/home/ndkhoalk97/IdeaProjects/dagger-/src/main/java/org/example/car/IEngine.java
+/home/ndkhoalk97/IdeaProjects/dagger-/src/main/java/org/example/car/Rim.java
+/home/ndkhoalk97/IdeaProjects/dagger-/src/main/java/org/example/car/DieselEngine.java
+/home/ndkhoalk97/IdeaProjects/dagger-/src/main/java/org/example/dagger/CarComponent.java
